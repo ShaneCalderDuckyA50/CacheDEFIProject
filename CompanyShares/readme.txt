@@ -33,4 +33,8 @@ Code example here:
 
     emit Transfer(address(0), msg.sender, _totalSupply);
   }
+  
+  Notes: 
+  Can be complied with no errors. 
+  Code is in draft form first revission. 
 
