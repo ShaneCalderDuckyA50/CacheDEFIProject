@@ -11,15 +11,19 @@ Instructions:
 
 Code can be found at: https://github.com/ShaneCalderDuckyA50/CacheDEFIProject/blob/main/CompanyShares/CompanyShares.sol
 
-Lines 3 to 8 shoulb be eddited to include comapny information 
+Lines 4 to 13 should be eddited to include company information 
 Code example here:
 
 // CompanyName - (Place company Name here)
 // Founders - 
 // Company Location - Country - City 
-// Type of Company Corporation etc. 
-// Date of financial statements or year end
+// Type of Company Corporation etc.
+// Public or private company  
+// Class of shares 
+// Company holding sale of shares or underwriter (if required)
+// Date for financial statements or year end
 // Website: 
+// Contact email or phone number 
 
 Lines 362 - 365 total token supply can be changed (set at 10,000 shares), change name to company name and symbol. Set to 2 decimal points. 
 
