@@ -1,11 +1,16 @@
 // contracts/GLDToken.sol
 // SPDX-License-Identifier: BEP20Token.template
+// Can be used for BEP-20 or ERC-20 
 // CompanyName - (Place company Name here)
 // Founders - 
 // Company Location - Country - City 
-// Type of Company Corporation etc. 
-// Date of financial statements or year end
+// Type of Company Corporation etc.
+// Public or private company  
+// Class of shares 
+// Company holding sale of shares or underwriter (if required)
+// Date for financial statements or year end
 // Website: 
+// Contact email or phone number 
 
 
 pragma solidity ^0.5.16;
