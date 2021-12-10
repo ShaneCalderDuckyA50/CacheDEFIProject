@@ -20,5 +20,25 @@ Cache DEFI Token and Blockchain crowdfunding software
 
 ![CacheDefiFarm](https://user-images.githubusercontent.com/87903773/129487592-7464b1b9-0c0a-45fa-8765-b6cef37869e1.jpg)
 
+<br>
+
+# White Paper 
+[CacheDEFIProject_WhitePaper_Nov2021_Rev1.0.pdf](https://github.com/ShaneCalderDuckyA50/CacheDEFIProject/files/7694801/CacheDEFIProject_WhitePaper_Nov2021_Rev1.0.pdf)
+<br>
+
+# Tokenomics
+[Cache_DEFI_ProjectTokenomics_Rev1.0.pdf](https://github.com/ShaneCalderDuckyA50/CacheDEFIProject/files/7694802/Cache_DEFI_ProjectTokenomics_Rev1.0.pdf)
+<br>
+
+# Roadmap:
+![CACH_Token_TimeLine_Rev1 0](https://user-images.githubusercontent.com/87903773/145624497-ed242d97-ea08-449f-8f77-602b3a42af4c.png)
+<br>
+
+# 2022 Token Distribution:
+![Token_Distribution@2x](https://user-images.githubusercontent.com/87903773/145624627-1300b54d-1753-4e92-9c73-6eb3d615fe08.png)
+<br>
+
+
+
 
 
