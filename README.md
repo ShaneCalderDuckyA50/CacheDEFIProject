@@ -1,7 +1,7 @@
 # CacheDEFIProject
 Cache DEFI Token and Blockchain crowdfunding software
 <br>
-![Group 16](https://user-images.githubusercontent.com/87903773/126871294-975a0f26-339e-417f-b1ab-b97b300e6721.png)
+![Cache_DEFI_Project](https://user-images.githubusercontent.com/87903773/145837377-b0b7d719-519b-4ada-bf64-76f5a64c64d8.png)
 <br><br>
 # Vision 
 <h2>Cache DEFI Project is an ecosystem that will decentralize venture capital and crowdfunding with open sourced blockchain software.</h2>
