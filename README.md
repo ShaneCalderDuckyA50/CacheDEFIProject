@@ -12,7 +12,9 @@ Cache DEFI Token and Blockchain crowdfunding software
 <h1>Two Goals of The Project:</h1>
 <h2>Create stock bearing tokens for companies to decentralize their share structure. 1 token = 1 share. After we launch the CACH Token the Cache DEFI Project team will start the process of gaining regulatory acceptance for this product.</h2>
 <h2>Implement a platform for startups to to create stock bearing tokens, show case their projects participate in cohorts and crowdfund for their projects. </h2><br>
+
 <h1> Website </h1>
+
 <h2>https://www.cachedefi.com</h2>
 <br>
 <h2>Coming soon: https://www.cachedefi.org</h2>
