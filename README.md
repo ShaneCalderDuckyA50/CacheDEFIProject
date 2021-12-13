@@ -20,7 +20,6 @@ Cache DEFI Token and Blockchain crowdfunding software
 <h2>Coming soon: https://www.cachedefi.org</h2>
 <br>
 <br>
-![CacheDefiFarm](https://user-images.githubusercontent.com/87903773/145838494-bc6442cf-2f3c-4310-afab-92b7e852b4bb.jpg)
 <br>
 
 # White Paper 
