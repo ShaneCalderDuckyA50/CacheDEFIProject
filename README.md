@@ -7,8 +7,11 @@ Cache DEFI Token and Blockchain crowdfunding software
 <h2>Cache DEFI Project is an ecosystem that will decentralize venture capital and crowdfunding with open sourced blockchain software.</h2>
 <br>
 <h1> Open-Sourced Software Description </h1>
-<h2>Cache DEFI Project will create an open source blockchain software that can be used to create crowdfunding, used in venture capital or a company total shares. These tokens can be distributed within the created agreement and will be captured on either Ethereums blockchain or Binances blockchain.  The program will be compatible with both platforms.  These blockchain contracts will mint a specific number of tokens, capture specific contract information and will be immutable.  They will not be able to be changed or altered. This software will be open-sourced and free to use. </h2>
-
+<h2>We want to create an environment to decentralize crowdfunding and venture capital. Cache Tokens (CACH) to be used in transactions, transparent reserve fund & provide liquidity mining options. Create stock bearing tokens for companies to enable them to raise funds privately, crowd fund or IPO's.</h2>
+<br>
+<h1>Two Goals of The Project:</h1>
+<h2>Create stock bearing tokens for companies to decentralize their share structure. 1 token = 1 share. After we launch the CACH Token the Cache DEFI Project team will start the process of gaining regulatory acceptance for this product.</h2>
+<h2>Implement a platform for startups to to create stock bearing tokens, show case their projects participate in cohorts and crowdfund for their projects. </h2><br>
 ![CacheDefiPileOfCoins](https://user-images.githubusercontent.com/87903773/126871537-f9b472e7-5136-4900-94ba-fc61ffcf4a8f.jpg)
 
 <h1> Website </h1>
@@ -17,9 +20,7 @@ Cache DEFI Token and Blockchain crowdfunding software
 <h2>Coming soon: https://www.cachedefi.org</h2>
 <br>
 <br>
-
-![CacheDefiFarm](https://user-images.githubusercontent.com/87903773/129487592-7464b1b9-0c0a-45fa-8765-b6cef37869e1.jpg)
-
+![CacheDefiFarm](https://user-images.githubusercontent.com/87903773/145838494-bc6442cf-2f3c-4310-afab-92b7e852b4bb.jpg)
 <br>
 
 # White Paper 
